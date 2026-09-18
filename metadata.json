@@ -1,0 +1,6 @@
+{
+  "name": "Volume Scrape - Offline Scrapling Engine",
+  "description": "Pure manual HTML scraper and volume analyzer operating 100% offline without external APIs, powered by Scrapling-style adaptive parsing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
